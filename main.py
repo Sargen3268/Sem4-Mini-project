@@ -16,4 +16,5 @@ def submit():
 
     return "Coming soon"
 
+
 app.run(debug=True)
